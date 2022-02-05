@@ -9,7 +9,7 @@ function App() {
   
   return (
 <section>
-  <div><NavbarC/></div>
+  <div style={{marginBottom:"40px"}}><NavbarC/></div>
   <div><Formulaire/></div>
   <div><Footer/></div>
 </section>
